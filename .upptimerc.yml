@@ -11,6 +11,9 @@ sites:
     url: https://news.ycombinator.com
   - name: Edo-dev
     url: https://edodev.nasihosting.com
+  - name: Detik
+    url: https://www.detik.com/
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
