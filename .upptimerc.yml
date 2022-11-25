@@ -15,7 +15,8 @@ sites:
     url: https://www.detik.com/
   - name: Nasihosting
     url: https://nasihosting.com
-
+  - name: Gokuhost
+    url: https://gokuhost.com/
 
 
 status-website:
