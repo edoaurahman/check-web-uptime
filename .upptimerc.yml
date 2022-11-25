@@ -10,7 +10,7 @@ sites:
   - name: Hacker News
     url: https://news.ycombinator.com
   - name: Edo-dev
-    url: https://edodev.nasihosting.com
+    url: https://edodev.nasihosting.com/wordpress/
   - name: Detik
     url: https://www.detik.com/
 
