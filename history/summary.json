@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 75,
-    "timeDay": 75,
-    "timeWeek": 75,
-    "timeMonth": 75,
-    "timeYear": 75,
+    "time": 74,
+    "timeDay": 74,
+    "timeWeek": 74,
+    "timeMonth": 74,
+    "timeYear": 74,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 389,
-    "timeDay": 389,
-    "timeWeek": 389,
-    "timeMonth": 389,
-    "timeYear": 389,
+    "time": 363,
+    "timeDay": 363,
+    "timeWeek": 363,
+    "timeMonth": 363,
+    "timeYear": 363,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 327,
-    "timeDay": 327,
-    "timeWeek": 327,
-    "timeMonth": 327,
-    "timeYear": 327,
+    "time": 375,
+    "timeDay": 375,
+    "timeWeek": 375,
+    "timeMonth": 375,
+    "timeYear": 375,
     "dailyMinutesDown": {}
   },
   {
@@ -59,18 +59,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/edodev.nasihosting.com.ico",
     "slug": "edo-dev",
     "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 79,
-    "timeDay": 79,
-    "timeWeek": 79,
-    "timeMonth": 79,
-    "timeYear": 79,
+    "uptime": "0.06%",
+    "uptimeDay": "0.06%",
+    "uptimeWeek": "0.06%",
+    "uptimeMonth": "0.06%",
+    "uptimeYear": "0.06%",
+    "time": 69,
+    "timeDay": 69,
+    "timeWeek": 69,
+    "timeMonth": 69,
+    "timeYear": 69,
     "dailyMinutesDown": {
-      "2022-11-25": 5
+      "2022-11-25": 7
     }
   }
 ]
