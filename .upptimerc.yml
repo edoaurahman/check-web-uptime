@@ -17,6 +17,11 @@ sites:
     url: https://nasihosting.com
   - name: Gokuhost
     url: https://gokuhost.com/
+  - name: Siakad Polinema
+    url: http://siakad.polinema.ac.id/
+  - name: Lms Polinema
+    url: https://lmsslc.polinema.ac.id/
+
 
 
 status-website:
