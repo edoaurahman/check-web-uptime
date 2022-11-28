@@ -70,7 +70,7 @@
     "timeMonth": 84,
     "timeYear": 84,
     "dailyMinutesDown": {
-      "2022-11-28": 449,
+      "2022-11-28": 463,
       "2022-11-27": 1440,
       "2022-11-26": 1440,
       "2022-11-25": 895
@@ -111,7 +111,7 @@
     "timeMonth": 92,
     "timeYear": 92,
     "dailyMinutesDown": {
-      "2022-11-28": 449,
+      "2022-11-28": 463,
       "2022-11-27": 1440,
       "2022-11-26": 1440,
       "2022-11-25": 828
@@ -158,19 +158,19 @@
     "url": "https://lmsslc.polinema.ac.id/",
     "icon": "https://icons.duckduckgo.com/ip3/lmsslc.polinema.ac.id.ico",
     "slug": "lms-polinema",
-    "status": "down",
-    "uptime": "3.14%",
-    "uptimeDay": "3.14%",
-    "uptimeWeek": "3.14%",
-    "uptimeMonth": "3.14%",
-    "uptimeYear": "3.14%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "0.48%",
+    "uptimeDay": "0.48%",
+    "uptimeWeek": "0.48%",
+    "uptimeMonth": "0.48%",
+    "uptimeYear": "0.48%",
+    "time": 1988,
+    "timeDay": 1988,
+    "timeWeek": 1988,
+    "timeMonth": 1988,
+    "timeYear": 1988,
     "dailyMinutesDown": {
-      "2022-11-28": 0
+      "2022-11-28": 14
     }
   }
 ]
