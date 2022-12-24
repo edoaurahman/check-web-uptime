@@ -72,7 +72,7 @@
     "timeMonth": 115,
     "timeYear": 115,
     "dailyMinutesDown": {
-      "2022-12-24": 56,
+      "2022-12-24": 1007,
       "2022-12-23": 1440,
       "2022-12-22": 1440,
       "2022-12-21": 1440,
@@ -142,7 +142,7 @@
     "timeMonth": 116,
     "timeYear": 116,
     "dailyMinutesDown": {
-      "2022-12-24": 56,
+      "2022-12-24": 1007,
       "2022-12-23": 1440,
       "2022-12-22": 1440,
       "2022-12-21": 1440,
@@ -197,9 +197,9 @@
     "url": "http://siakad.polinema.ac.id/",
     "icon": "https://icons.duckduckgo.com/ip3/siakad.polinema.ac.id.ico",
     "slug": "siakad-polinema",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.65%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.91%",
@@ -209,6 +209,7 @@
     "timeMonth": 1058,
     "timeYear": 1058,
     "dailyMinutesDown": {
+      "2022-12-24": 0,
       "2022-12-19": 35
     }
   },
