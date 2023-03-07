@@ -9,12 +9,10 @@ sites:
     url: https://en.wikipedia.org
   - name: Hacker News
     url: https://news.ycombinator.com
-  - name: Edo-dev
-    url: https://edodev.nasihosting.com/wordpress/
   - name: Detik
     url: https://www.detik.com/
-  - name: Nasihosting
-    url: https://nasihosting.com
+  - name: UUDUMP
+    url: https://uupdump.net/
   - name: Gokuhost
     url: https://gokuhost.com/
   - name: Siakad Polinema
