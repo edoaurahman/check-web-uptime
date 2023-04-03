@@ -89,9 +89,9 @@
     "url": "https://uupdump.net/",
     "icon": "https://icons.duckduckgo.com/ip3/uupdump.net.ico",
     "slug": "uudump",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -100,7 +100,9 @@
     "timeWeek": 577,
     "timeMonth": 554,
     "timeYear": 554,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-04-03": 0
+    }
   },
   {
     "name": "Gokuhost",
@@ -160,11 +162,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/lmsslc.polinema.ac.id.ico",
     "slug": "lms-polinema",
     "status": "up",
-    "uptime": "96.44%",
+    "uptime": "96.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "96.44%",
+    "uptimeYear": "96.46%",
     "time": 1935,
     "timeDay": 1943,
     "timeWeek": 1894,
