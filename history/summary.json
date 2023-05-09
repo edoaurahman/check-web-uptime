@@ -66,9 +66,9 @@
     "url": "https://www.detik.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.detik.com.ico",
     "slug": "detik",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.50%",
     "uptimeYear": "99.86%",
@@ -78,6 +78,7 @@
     "timeMonth": 3417,
     "timeYear": 2780,
     "dailyMinutesDown": {
+      "2023-05-09": 0,
       "2023-04-20": 220,
       "2023-03-19": 38,
       "2023-03-09": 15,
@@ -146,7 +147,7 @@
     "time": 1838,
     "timeDay": 1203,
     "timeWeek": 1088,
-    "timeMonth": 2357,
+    "timeMonth": 2378,
     "timeYear": 1838,
     "dailyMinutesDown": {
       "2023-04-28": 93,
