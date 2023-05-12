@@ -19,7 +19,7 @@ sites:
     url: http://siakad.polinema.ac.id/
   - name: Lms Polinema
     url: https://lmsslc.polinema.ac.id/
-  - name: Lms Polinema
+  - name: Xcodehoster server 4
     url: https://serverjogja.xcodehoster.com/
 
 status-website:
