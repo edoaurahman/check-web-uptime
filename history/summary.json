@@ -210,19 +210,19 @@
     "url": "https://serverjogja.securityhub.id/",
     "icon": "https://icons.duckduckgo.com/ip3/serverjogja.securityhub.id.ico",
     "slug": "xcodehoster-server-4",
-    "status": "down",
-    "uptime": "86.40%",
-    "uptimeDay": "86.40%",
-    "uptimeWeek": "86.40%",
-    "uptimeMonth": "86.40%",
-    "uptimeYear": "86.40%",
-    "time": 5155,
-    "timeDay": 5155,
-    "timeWeek": 5155,
-    "timeMonth": 5155,
-    "timeYear": 5155,
+    "status": "up",
+    "uptime": "85.43%",
+    "uptimeDay": "85.43%",
+    "uptimeWeek": "85.43%",
+    "uptimeMonth": "85.43%",
+    "uptimeYear": "85.43%",
+    "time": 4587,
+    "timeDay": 4587,
+    "timeWeek": 4587,
+    "timeMonth": 4587,
+    "timeYear": 4587,
     "dailyMinutesDown": {
-      "2023-05-13": 115
+      "2023-05-13": 125
     }
   }
 ]
