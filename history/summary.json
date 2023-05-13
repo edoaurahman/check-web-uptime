@@ -101,7 +101,7 @@
     "time": 1136,
     "timeDay": 928,
     "timeWeek": 856,
-    "timeMonth": 770,
+    "timeMonth": 773,
     "timeYear": 1136,
     "dailyMinutesDown": {
       "2023-04-12": 65,
@@ -178,11 +178,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/lmsslc.polinema.ac.id.ico",
     "slug": "lms-polinema",
     "status": "up",
-    "uptime": "97.30%",
+    "uptime": "97.31%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.30%",
+    "uptimeYear": "97.31%",
     "time": 1929,
     "timeDay": 2010,
     "timeWeek": 1942,
@@ -210,19 +210,19 @@
     "url": "https://serverjogja.securityhub.id/",
     "icon": "https://icons.duckduckgo.com/ip3/serverjogja.securityhub.id.ico",
     "slug": "xcodehoster-server-4",
-    "status": "up",
-    "uptime": "79.28%",
-    "uptimeDay": "79.28%",
-    "uptimeWeek": "79.28%",
-    "uptimeMonth": "79.28%",
-    "uptimeYear": "79.28%",
+    "status": "down",
+    "uptime": "86.40%",
+    "uptimeDay": "86.40%",
+    "uptimeWeek": "86.40%",
+    "uptimeMonth": "86.40%",
+    "uptimeYear": "86.40%",
     "time": 5155,
     "timeDay": 5155,
     "timeWeek": 5155,
     "timeMonth": 5155,
     "timeYear": 5155,
     "dailyMinutesDown": {
-      "2023-05-13": 130
+      "2023-05-13": 115
     }
   }
 ]
