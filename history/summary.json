@@ -211,18 +211,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/serverjogja.securityhub.id.ico",
     "slug": "xcodehoster-server-4",
     "status": "down",
-    "uptime": "98.83%",
-    "uptimeDay": "98.83%",
-    "uptimeWeek": "98.83%",
-    "uptimeMonth": "98.83%",
-    "uptimeYear": "98.83%",
+    "uptime": "38.93%",
+    "uptimeDay": "38.93%",
+    "uptimeWeek": "38.93%",
+    "uptimeMonth": "38.93%",
+    "uptimeYear": "38.93%",
     "time": 11622,
     "timeDay": 11622,
     "timeWeek": 11622,
     "timeMonth": 11622,
     "timeYear": 11622,
     "dailyMinutesDown": {
-      "2023-05-13": 0
+      "2023-05-13": 49
     }
   }
 ]
