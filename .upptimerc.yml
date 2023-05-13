@@ -20,7 +20,7 @@ sites:
   - name: Lms Polinema
     url: https://lmsslc.polinema.ac.id/
   - name: Xcodehoster server 4
-    url: https://serverjogja.xcodehoster.com/
+    url: https://serverjogja.securityhub.id/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
