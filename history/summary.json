@@ -233,11 +233,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/serverjogja.securityhub.id.ico",
     "slug": "xcodehoster-server-4",
     "status": "up",
-    "uptime": "97.55%",
+    "uptime": "97.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.34%",
-    "uptimeYear": "97.55%",
+    "uptimeYear": "97.56%",
     "time": 3579,
     "timeDay": 2094,
     "timeWeek": 2041,
@@ -276,9 +276,9 @@
     "url": "https://edodev.my.id/",
     "icon": "https://icons.duckduckgo.com/ip3/edodev.my.id.ico",
     "slug": "edodev",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -287,6 +287,8 @@
     "timeWeek": 1291,
     "timeMonth": 1510,
     "timeYear": 1462,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-12": 0
+    }
   }
 ]
