@@ -100,7 +100,7 @@
     "uptime": "88.88%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "42.04%",
+    "uptimeMonth": "41.98%",
     "uptimeYear": "88.88%",
     "time": 1453,
     "timeDay": 0,
@@ -108,7 +108,7 @@
     "timeMonth": 3989,
     "timeYear": 1453,
     "dailyMinutesDown": {
-      "2023-09-28": 1414,
+      "2023-09-28": 1437,
       "2023-09-27": 1440,
       "2023-09-26": 1440,
       "2023-09-25": 1440,
@@ -279,16 +279,16 @@
     "url": "https://serverjogja.securityhub.id/",
     "icon": "https://icons.duckduckgo.com/ip3/serverjogja.securityhub.id.ico",
     "slug": "xcodehoster-server-4",
-    "status": "up",
-    "uptime": "91.96%",
-    "uptimeDay": "89.35%",
+    "status": "down",
+    "uptime": "91.97%",
+    "uptimeDay": "89.32%",
     "uptimeWeek": "94.55%",
     "uptimeMonth": "90.38%",
-    "uptimeYear": "91.96%",
+    "uptimeYear": "91.97%",
     "time": 3843,
     "timeDay": 4505,
     "timeWeek": 3921,
-    "timeMonth": 4213,
+    "timeMonth": 4221,
     "timeYear": 3843,
     "dailyMinutesDown": {
       "2023-09-28": 154,
@@ -333,7 +333,7 @@
       "2023-08-07": 1371,
       "2023-07-31": 52,
       "2023-07-30": 1087,
-      "2023-07-29": 66
+      "2023-07-29": 44
     }
   },
   {
