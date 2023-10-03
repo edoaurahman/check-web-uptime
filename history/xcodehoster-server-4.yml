@@ -1,7 +1,7 @@
 url: https://serverjogja.securityhub.id/
-status: up
-code: 200
-responseTime: 1268
-lastUpdated: 2023-10-03T17:22:48.115Z
+status: down
+code: 523
+responseTime: 4311
+lastUpdated: 2023-10-03T17:57:30.421Z
 startTime: 2023-05-12T23:38:01.000Z
 generator: Upptime <https://github.com/upptime/upptime>
