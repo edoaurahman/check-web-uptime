@@ -4,19 +4,19 @@
     "url": "https://www.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.22%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 111,
-    "timeDay": 237,
-    "timeWeek": 118,
-    "timeMonth": 111,
+    "timeDay": 177,
+    "timeWeek": 111,
+    "timeMonth": 110,
     "timeYear": 111,
     "dailyMinutesDown": {
-      "2023-10-07": 0
+      "2023-10-07": 11
     }
   },
   {
@@ -102,7 +102,7 @@
     "uptime": "85.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "14.92%",
+    "uptimeMonth": "14.90%",
     "uptimeYear": "85.46%",
     "time": 1453,
     "timeDay": 0,
@@ -110,7 +110,7 @@
     "timeMonth": 5051,
     "timeYear": 1453,
     "dailyMinutesDown": {
-      "2023-10-07": 330,
+      "2023-10-07": 342,
       "2023-10-06": 1440,
       "2023-10-05": 1440,
       "2023-10-04": 1440,
@@ -290,18 +290,19 @@
     "url": "https://serverjogja.securityhub.id/",
     "icon": "https://icons.duckduckgo.com/ip3/serverjogja.securityhub.id.ico",
     "slug": "xcodehoster-server-4",
-    "status": "up",
-    "uptime": "97.79%",
-    "uptimeDay": "98.88%",
-    "uptimeWeek": "90.45%",
-    "uptimeMonth": "90.49%",
-    "uptimeYear": "97.79%",
+    "status": "down",
+    "uptime": "97.80%",
+    "uptimeDay": "98.86%",
+    "uptimeWeek": "90.58%",
+    "uptimeMonth": "90.52%",
+    "uptimeYear": "97.80%",
     "time": 3868,
     "timeDay": 2260,
     "timeWeek": 4118,
     "timeMonth": 4037,
     "timeYear": 3868,
     "dailyMinutesDown": {
+      "2023-10-07": 0,
       "2023-10-06": 16,
       "2023-10-04": 596,
       "2023-10-03": 116,
@@ -331,8 +332,7 @@
       "2023-09-07": 482,
       "2023-09-06": 174,
       "2023-09-05": 48,
-      "2023-09-04": 47,
-      "2023-09-03": 25
+      "2023-09-04": 47
     }
   },
   {
