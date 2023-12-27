@@ -1,7 +1,7 @@
 url: https://edodev.my.id/
-status: up
-code: 200
-responseTime: 1218
-lastUpdated: 2023-12-26T23:12:42.537Z
+status: down
+code: 500
+responseTime: 1049
+lastUpdated: 2023-12-27T20:20:41.694Z
 startTime: 2023-05-28T11:13:36.000Z
 generator: Upptime <https://github.com/upptime/upptime>
