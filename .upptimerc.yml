@@ -3,24 +3,12 @@ owner: edoaurahman # Your GitHub organization or username, where this repository
 repo: check-web-uptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Detik
-    url: https://www.detik.com/
-  - name: UUDUMP
-    url: https://uupdump.net/
   - name: Gokuhost
     url: https://gokuhost.com/
   - name: Siakad Polinema
     url: http://siakad.polinema.ac.id/
   - name: Lms Polinema
     url: https://lmsslc.polinema.ac.id/
-  - name: Xcodehoster server 4
-    url: https://serverjogja.securityhub.id/
   - name: Edodev
     url: https://edodev.my.id/
 
