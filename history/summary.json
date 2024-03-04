@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.67%",
-    "time": 376,
-    "timeDay": 355,
-    "timeWeek": 269,
-    "timeMonth": 237,
+    "time": 375,
+    "timeDay": 115,
+    "timeWeek": 253,
+    "timeMonth": 233,
     "timeYear": 344,
     "dailyMinutesDown": {
       "2023-11-05": 54,
@@ -36,16 +36,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/siakad.polinema.ac.id.ico",
     "slug": "siakad-polinema",
     "status": "down",
-    "uptime": "93.02%",
+    "uptime": "93.04%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "45.97%",
+    "uptimeMonth": "49.25%",
     "uptimeYear": "91.43%",
-    "time": 1782,
+    "time": 1783,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1707,
+    "timeYear": 1708,
     "dailyMinutesDown": {
       "2024-02-19": 682,
       "2024-02-18": 1440,
@@ -111,8 +111,7 @@
       "2023-04-19": 361,
       "2023-04-18": 21,
       "2023-04-09": 162,
-      "2023-03-10": 32,
-      "2023-03-05": 22
+      "2023-03-10": 32
     }
   },
   {
@@ -121,16 +120,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/lmsslc.polinema.ac.id.ico",
     "slug": "lms-polinema",
     "status": "down",
-    "uptime": "76.83%",
+    "uptime": "76.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "45.97%",
+    "uptimeMonth": "49.25%",
     "uptimeYear": "71.98%",
     "time": 1993,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 2006,
+    "timeYear": 2005,
     "dailyMinutesDown": {
       "2024-02-19": 682,
       "2024-02-18": 1440,
@@ -242,8 +241,7 @@
       "2023-06-30": 52,
       "2023-05-20": 399,
       "2023-05-19": 729,
-      "2023-05-13": 76,
-      "2023-03-05": 21
+      "2023-05-13": 76
     }
   },
   {
@@ -257,11 +255,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.62%",
-    "time": 1252,
-    "timeDay": 783,
-    "timeWeek": 892,
-    "timeMonth": 897,
-    "timeYear": 1252,
+    "time": 1251,
+    "timeDay": 938,
+    "timeWeek": 875,
+    "timeMonth": 895,
+    "timeYear": 1251,
     "dailyMinutesDown": {
       "2023-12-28": 204,
       "2023-12-27": 219,
