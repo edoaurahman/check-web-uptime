@@ -11,9 +11,9 @@
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.48%",
     "time": 1079,
-    "timeDay": 4007,
-    "timeWeek": 2686,
-    "timeMonth": 3042,
+    "timeDay": 543,
+    "timeWeek": 2556,
+    "timeMonth": 2654,
     "timeYear": 1375,
     "dailyMinutesDown": {
       "2024-06-16": 45,
@@ -45,16 +45,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/siakad.polinema.ac.id.ico",
     "slug": "siakad-polinema",
     "status": "down",
-    "uptime": "84.78%",
+    "uptime": "84.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "76.41%",
-    "time": 1760,
+    "time": 1762,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1853,
+    "timeYear": 1855,
     "dailyMinutesDown": {
       "2024-05-03": 22,
       "2024-05-02": 1440,
@@ -161,8 +161,7 @@
       "2023-08-31": 44,
       "2023-08-30": 238,
       "2023-08-02": 45,
-      "2023-07-31": 39,
-      "2023-07-06": 119
+      "2023-07-31": 39
     }
   },
   {
@@ -171,7 +170,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/lmsslc.polinema.ac.id.ico",
     "slug": "lms-polinema",
     "status": "down",
-    "uptime": "81.71%",
+    "uptime": "81.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -286,8 +285,7 @@
       "2023-10-13": 117,
       "2023-10-12": 1055,
       "2023-10-11": 470,
-      "2023-08-02": 45,
-      "2023-07-06": 119
+      "2023-08-02": 45
     }
   },
   {
@@ -296,16 +294,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/edodev.my.id.ico",
     "slug": "edodev",
     "status": "up",
-    "uptime": "98.34%",
+    "uptime": "98.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.17%",
-    "time": 1233,
-    "timeDay": 997,
-    "timeWeek": 1008,
-    "timeMonth": 1023,
-    "timeYear": 1206,
+    "time": 1232,
+    "timeDay": 945,
+    "timeWeek": 1010,
+    "timeMonth": 1015,
+    "timeYear": 1205,
     "dailyMinutesDown": {
       "2023-12-28": 204,
       "2023-12-27": 219,
