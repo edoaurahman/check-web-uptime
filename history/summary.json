@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.71%",
-    "time": 1914,
-    "timeDay": 2625,
-    "timeWeek": 3418,
-    "timeMonth": 2146,
+    "time": 1915,
+    "timeDay": 534,
+    "timeWeek": 3370,
+    "timeMonth": 2145,
     "timeYear": 2590,
     "dailyMinutesDown": {
       "2024-11-07": 88,
@@ -37,12 +37,12 @@
     "icon": "https://icons.duckduckgo.com/ip3/siakad.polinema.ac.id.ico",
     "slug": "siakad-polinema",
     "status": "down",
-    "uptime": "75.97%",
+    "uptime": "76.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "52.21%",
-    "time": 2648,
+    "uptimeYear": "52.49%",
+    "time": 2666,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
@@ -222,8 +222,7 @@
       "2024-02-11": 1440,
       "2024-02-10": 1440,
       "2024-02-09": 1440,
-      "2024-02-08": 1440,
-      "2024-02-07": 1440
+      "2024-02-08": 1440
     }
   },
   {
@@ -232,12 +231,12 @@
     "icon": "https://icons.duckduckgo.com/ip3/lmsslc.polinema.ac.id.ico",
     "slug": "lms-polinema",
     "status": "down",
-    "uptime": "86.65%",
+    "uptime": "86.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.05%",
-    "time": 1961,
+    "uptimeYear": "96.32%",
+    "time": 1958,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
@@ -254,8 +253,7 @@
       "2024-02-11": 1440,
       "2024-02-10": 1440,
       "2024-02-09": 1440,
-      "2024-02-08": 1440,
-      "2024-02-07": 1440
+      "2024-02-08": 1440
     }
   },
   {
@@ -269,11 +267,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.75%",
-    "time": 1254,
-    "timeDay": 5498,
-    "timeWeek": 4475,
-    "timeMonth": 3582,
-    "timeYear": 1258,
+    "time": 1266,
+    "timeDay": 6599,
+    "timeWeek": 3985,
+    "timeMonth": 3745,
+    "timeYear": 1273,
     "dailyMinutesDown": {
       "2024-10-22": 367,
       "2024-09-27": 455,
