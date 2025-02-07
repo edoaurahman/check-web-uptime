@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.71%",
-    "time": 1915,
-    "timeDay": 534,
-    "timeWeek": 3370,
-    "timeMonth": 2145,
-    "timeYear": 2590,
+    "time": 1949,
+    "timeDay": 19540,
+    "timeWeek": 4036,
+    "timeMonth": 2756,
+    "timeYear": 2639,
     "dailyMinutesDown": {
       "2024-11-07": 88,
       "2024-11-06": 183,
@@ -41,8 +41,8 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "52.73%",
-    "time": 2666,
+    "uptimeYear": "52.76%",
+    "time": 2682,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
@@ -221,8 +221,7 @@
       "2024-02-12": 1440,
       "2024-02-11": 1440,
       "2024-02-10": 1440,
-      "2024-02-09": 1440,
-      "2024-02-08": 1440
+      "2024-02-09": 1440
     }
   },
   {
@@ -235,8 +234,8 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.57%",
-    "time": 1958,
+    "uptimeYear": "96.60%",
+    "time": 1954,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
@@ -252,8 +251,7 @@
       "2024-02-12": 1440,
       "2024-02-11": 1440,
       "2024-02-10": 1440,
-      "2024-02-09": 1440,
-      "2024-02-08": 1440
+      "2024-02-09": 1440
     }
   },
   {
@@ -263,17 +261,16 @@
     "slug": "edodev",
     "status": "up",
     "uptime": "98.78%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.75%",
-    "time": 1274,
-    "timeDay": 6591,
-    "timeWeek": 4310,
-    "timeMonth": 3834,
-    "timeYear": 1288,
+    "time": 1282,
+    "timeDay": 6222,
+    "timeWeek": 4295,
+    "timeMonth": 3973,
+    "timeYear": 1301,
     "dailyMinutesDown": {
-      "2025-02-06": 10,
       "2024-10-22": 367,
       "2024-09-27": 455,
       "2024-09-26": 468
