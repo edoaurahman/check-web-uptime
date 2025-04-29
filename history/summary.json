@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.82%",
-    "time": 2406,
-    "timeDay": 386,
-    "timeWeek": 2231,
-    "timeMonth": 4106,
-    "timeYear": 3102,
+    "time": 2419,
+    "timeDay": 7572,
+    "timeWeek": 3233,
+    "timeMonth": 4104,
+    "timeYear": 3109,
     "dailyMinutesDown": {
       "2025-04-16": 24,
       "2025-04-15": 19,
@@ -25,8 +25,7 @@
       "2024-08-21": 80,
       "2024-06-16": 45,
       "2024-06-14": 24,
-      "2024-05-06": 176,
-      "2024-04-29": 102
+      "2024-05-06": 176
     }
   },
   {
@@ -35,15 +34,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/siakad.polinema.ac.id.ico",
     "slug": "siakad-polinema",
     "status": "up",
-    "uptime": "78.21%",
+    "uptime": "78.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "70.34%",
-    "time": 1658,
-    "timeDay": 779,
-    "timeWeek": 747,
-    "timeMonth": 653,
+    "uptimeYear": "70.62%",
+    "time": 1646,
+    "timeDay": 814,
+    "timeWeek": 778,
+    "timeMonth": 658,
     "timeYear": 791,
     "dailyMinutesDown": {
       "2024-10-23": 364,
@@ -154,8 +153,7 @@
       "2024-05-03": 22,
       "2024-05-02": 1440,
       "2024-05-01": 1440,
-      "2024-04-30": 1440,
-      "2024-04-29": 1440
+      "2024-04-30": 1440
     }
   },
   {
@@ -164,7 +162,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/lmsslc.polinema.ac.id.ico",
     "slug": "lms-polinema",
     "status": "down",
-    "uptime": "87.89%",
+    "uptime": "87.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -187,11 +185,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.21%",
-    "time": 1570,
-    "timeDay": 403,
-    "timeWeek": 440,
-    "timeMonth": 427,
-    "timeYear": 1747,
+    "time": 1569,
+    "timeDay": 483,
+    "timeWeek": 447,
+    "timeMonth": 431,
+    "timeYear": 1744,
     "dailyMinutesDown": {
       "2025-03-02": 154,
       "2025-02-27": 281,
