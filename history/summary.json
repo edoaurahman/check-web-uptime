@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.78%",
-    "time": 3050,
-    "timeDay": 2774,
-    "timeWeek": 2095,
-    "timeMonth": 1806,
-    "timeYear": 3108,
+    "time": 3025,
+    "timeDay": 594,
+    "timeWeek": 2044,
+    "timeMonth": 1634,
+    "timeYear": 3109,
     "dailyMinutesDown": {
       "2025-09-02": 34,
       "2025-08-21": 221,
@@ -46,7 +46,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/siakad.polinema.ac.id.ico",
     "slug": "siakad-polinema",
     "status": "down",
-    "uptime": "77.12%",
+    "uptime": "77.04%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -57,7 +57,8 @@
     "timeMonth": 0,
     "timeYear": 687,
     "dailyMinutesDown": {
-      "2025-09-25": 75,
+      "2025-09-26": 74,
+      "2025-09-25": 1440,
       "2025-09-24": 1440,
       "2025-09-23": 1440,
       "2025-09-22": 1440,
@@ -130,8 +131,7 @@
       "2024-09-30": 1440,
       "2024-09-29": 1440,
       "2024-09-28": 1440,
-      "2024-09-27": 1440,
-      "2024-09-26": 1440
+      "2024-09-27": 1440
     }
   },
   {
@@ -140,16 +140,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/lmsslc.polinema.ac.id.ico",
     "slug": "lms-polinema",
     "status": "up",
-    "uptime": "89.60%",
+    "uptime": "89.61%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "96.06%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "98.02%",
     "uptimeYear": "99.83%",
-    "time": 3108,
-    "timeDay": 1632,
-    "timeWeek": 3366,
-    "timeMonth": 3108,
-    "timeYear": 3108,
+    "time": 3032,
+    "timeDay": 1270,
+    "timeWeek": 3548,
+    "timeMonth": 3032,
+    "timeYear": 3032,
     "dailyMinutesDown": {
       "2025-09-18": 472,
       "2025-09-17": 362,
@@ -167,11 +167,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.21%",
-    "time": 1400,
-    "timeDay": 473,
-    "timeWeek": 538,
-    "timeMonth": 457,
-    "timeYear": 1501,
+    "time": 1399,
+    "timeDay": 430,
+    "timeWeek": 534,
+    "timeMonth": 445,
+    "timeYear": 1500,
     "dailyMinutesDown": {
       "2025-03-02": 154,
       "2025-02-27": 281,
@@ -183,8 +183,7 @@
       "2025-02-08": 353,
       "2025-02-07": 44,
       "2024-10-22": 367,
-      "2024-09-27": 455,
-      "2024-09-26": 468
+      "2024-09-27": 455
     }
   }
 ]
